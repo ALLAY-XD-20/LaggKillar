@@ -11,7 +11,7 @@ server:
 lavalink:
   plugins:
     # --- LaggKillar (required) ---
-    - dependency: "com.github.ALLAY-XD-20:LaggKillar:1.4.0"
+    - dependency: "com.github.ALLAY-XD-20:LaggKillar:1.4.1"
       repository: "https://jitpack.io"
 
     # --- Optional source plugins. The more you install, the more fallback sources work. ---
