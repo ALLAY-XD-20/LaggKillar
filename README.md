@@ -47,7 +47,7 @@ LaggKillar is a Lavalink plugin that keeps music playing when things go wrong. I
 ```yaml
 lavalink:
   plugins:
-    - dependency: "com.github.ALLAY-XD-20:LaggKillar:1.4.0"
+    - dependency: "com.github.ALLAY-XD-20:LaggKillar:1.4.1"
       repository: "https://jitpack.io"
 ```
 
